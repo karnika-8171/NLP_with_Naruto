@@ -1,1 +1,2 @@
-from .character_chatbot import CharacterChatBot
+from .named_entity_recognizer import NamedEntityRecognizer
+from .character_network_generator import CharacterNetworkGenerator
