@@ -1,0 +1,14 @@
+transformers==4.44.0
+huggingface_hub==0.24.5
+nltk==3.8.1
+torch==2.4.0
+gradio==4.36.1
+pyvis==0.3.2
+evaluate==0.4.2
+python-dotenv==1.0.1
+accelerate
+git+https://github.com/huggingface/peft.git
+trl==0.9.6
+bitsandbytes==0.43.3
+spacy
+spacy-transformers
